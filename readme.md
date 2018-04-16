@@ -1,3 +1,3 @@
 
 
-![Demo](display\gif.gif)
+![Demo](display/gif.gif)
